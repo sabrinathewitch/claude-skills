@@ -27,3 +27,4 @@ Dans Claude Code :
 |-------|-------------|
 | `exemple-skill` | Skill d'exemple à remplacer. |
 | `cr-reunions` | CR de réunion : retrouve la réunion dans Google Agenda, fusionne notes et transcription Gemini, colle le CR dans un onglet Google Doc. |
+| `comparaison-cr` | Compare les différents CR d'une même réunion (Gmail, Drive, Slack, notes Gemini) et fait ressortir les incohérences, après validation des sources. |
